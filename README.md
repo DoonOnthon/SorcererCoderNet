@@ -36,7 +36,6 @@ SorcererCoderNet is your gateway to an enchanting world of coding possibilities.
 
 Our short-term goals for SorcererCoderNet include:
 - Curating a diverse collection of coding challenges spanning different languages and concepts.
-- Launching a series of live lectures on fundamental coding topics and advanced techniques.
 - Rolling out interactive coding environments that allow users to practice and experiment in real time.
 - Establishing a community feedback loop to gather suggestions and shape the platform's evolution.
 
@@ -44,6 +43,7 @@ Our short-term goals for SorcererCoderNet include:
 
 Our long-term goals for SorcererCoderNet include:
 - Introducing user accounts with personalized dashboards to track progress and achievements.
+- Launching a series of live lectures on fundamental coding topics and advanced techniques.
 - Expanding the lecture series to cover emerging technologies and specialized fields.
 - Collaborating with industry experts to provide exclusive workshops and mentorship opportunities.
 - Building a comprehensive library of coding resources, tutorials, and best practices.
@@ -82,5 +82,4 @@ SorcererCoderNet is released under the [CLA License](LICENSE). Feel free to use,
 
 Join us on this enchanting journey as we explore the realm of coding mastery and unlock the magic within each line of code. Let's embark on this coding adventure together! 🪄✨
 
-#hashtags #codingchallenges #livelectures #learningtools #communityinteraction #goodfirstissue #magicalcoding #codingadventure #SorcererCoderNet
-
+#hashtags #codingchallenges #livelectures #learningtools #communityinteraction #goodfirstissue #magicalcoding #
