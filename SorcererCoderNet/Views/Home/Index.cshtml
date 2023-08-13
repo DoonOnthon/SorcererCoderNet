@@ -10,9 +10,27 @@
 </head>
 <body>
     <div class="text-center">
-        <h1 class="display-4">Welcome to <code>Sorcerer<span class="text-success">Coder</span>Net</code></h1>
-        <p>Embark on a coding adventure! Explore challenges, attend live lectures, and harness learning tools to unveil the magic of coding mastery. ✨</p>
-        <p>Join us on this enchanting journey and make <code>Sorcerer<span class="text-success">Coder</span>Net</code> an inspiring platform for coding excellence. Let's embark on this coding adventure together! ✨</p>
+        <h1 class="display-4">Welcome to <span class="text-success">SorcererCoderNet</span></h1>
+        <p><span class="text-primary">Embark</span> on a <span class="text-success">coding adventure</span>! <span class="text-primary">Explore challenges</span>, attend <span class="text-success">live lectures</span>, and harness <span class="text-primary">learning tools</span> to unveil the magic of <span class="text-success">coding mastery</span>. ✨</p>
+        <p>Join us on this enchanting journey and make <span class="text-success">SorcererCoderNet</span> an inspiring platform for coding excellence. Let's embark on this <span class="text-primary">coding adventure</span> together! ✨</p>
+        <div class="coding-animation"></div>
+        <p class="mt-3"><span class="text-success">Coding</span> is <span id="typing-text" class="text-primary"></span></p>
     </div>
+    <script>
+        const codingText = "your superpower!";
+        const typingSpeed = 100; // milliseconds per character
+        const typingElement = document.getElementById("typing-text");
+
+        let charIndex = 0;
+        function typeText() {
+            if (charIndex < codingText.length) {
+                typingElement.textContent += codingText.charAt(charIndex);
+                charIndex++;
+                setTimeout(typeText, typingSpeed);
+            }
+        }
+
+        typeText();
+    </script>
 </body>
 </html>

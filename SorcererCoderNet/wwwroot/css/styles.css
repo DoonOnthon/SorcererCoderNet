@@ -30,3 +30,45 @@ a {
     a:hover {
         text-decoration: underline;
     }
+/* Coding animation */
+@keyframes codingAnimation {
+    0%, 100% {
+        background-image: linear-gradient(to right, transparent, #00ff00);
+        background-size: 200% 100%;
+        background-position: 100% 0;
+    }
+
+    25% {
+        background-image: linear-gradient(to right, #00ff00, transparent);
+        background-size: 200% 100%;
+        background-position: 100% 0;
+    }
+
+    50% {
+        background-image: linear-gradient(to right, transparent, #00ff00);
+        background-size: 200% 100%;
+        background-position: 0 0;
+    }
+
+    75% {
+        background-image: linear-gradient(to right, #00ff00, transparent);
+        background-size: 200% 100%;
+        background-position: 0 0;
+    }
+}
+
+.coding-animation {
+    position: relative;
+    height: 2px;
+    overflow: hidden;
+}
+
+    .coding-animation::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        animation: codingAnimation 8s linear infinite;
+    }
