@@ -10,6 +10,7 @@ Welcome to SorcererCoderNet, your gateway to an enchanting world of coding possi
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Short-Term Goals](#short-term-goals)
 - [Long-Term Goals](#long-term-goals)
@@ -20,6 +21,14 @@ Welcome to SorcererCoderNet, your gateway to an enchanting world of coding possi
 ## Introduction
 
 SorcererCoderNet is your gateway to an enchanting world of coding possibilities. Our platform offers an immersive experience where you can tackle coding challenges, participate in live lectures, and leverage powerful learning tools. Whether you're a budding coder or a seasoned developer, SorcererCoderNet is designed to elevate your coding journey.
+
+## Technologies Used
+
+We are proud to use the following technologies for SorcererCoderNet development:
+
+- Programming Language: C#
+- Framework: ASP.NET MVC
+- Development Environment: Visual Studio 2022
 
 ## Features
 
@@ -82,4 +91,4 @@ SorcererCoderNet is released under the [CLA License](LICENSE). Feel free to use,
 
 Join us on this enchanting journey as we explore the realm of coding mastery and unlock the magic within each line of code. Let's embark on this coding adventure together! 🪄✨
 
-#hashtags #codingchallenges #livelectures #learningtools #communityinteraction #goodfirstissue #magicalcoding #CSharp #ASPNET #MVC
+#hashtags #codingchallenges #livelectures #learningtools #communityinteraction #goodfirstissue #magicalcoding #codingcommunity #open-source #codingadventure #SorcererCoderNet
