@@ -17,6 +17,14 @@ namespace SorcererCoderNet.Controllers
         {
             return View();
         }
+        //public IActionResult Challenges()
+        //{
+        //    return View();
+        //}
+        //public IActionResult Courses()
+        //{
+        //    return View();
+        //}
 
         public IActionResult Privacy()
         {
