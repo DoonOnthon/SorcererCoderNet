@@ -82,4 +82,4 @@ SorcererCoderNet is released under the [CLA License](LICENSE). Feel free to use,
 
 Join us on this enchanting journey as we explore the realm of coding mastery and unlock the magic within each line of code. Let's embark on this coding adventure together! 🪄✨
 
-#hashtags #codingchallenges #livelectures #learningtools #communityinteraction #goodfirstissue #magicalcoding #
+#hashtags #codingchallenges #livelectures #learningtools #communityinteraction #goodfirstissue #magicalcoding #CSharp #ASPNET #MVC
