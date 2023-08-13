@@ -1,0 +1,32 @@
+﻿/* wwwroot/css/styles.css */
+
+body {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    margin: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #00d9ff;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
