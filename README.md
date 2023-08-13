@@ -1,7 +1,7 @@
 # SorcererCoderNet
 Embark on a coding adventure! Explore challenges, attend live lectures, and harness learning tools in the SorcererCoderNet Repository. Unveil the magic of coding mastery. ✨
 
-![bera-burucu-wizard-idle-animation](https://github.com/DoonOnthon/SorcererCoderNet/assets/73943064/ccde178d-41df-4b16-8a28-0d89dc6a3eca)
+![bera-burucu-wizard-idle-animation](https://github.com/DoonOnthon/SorcererCoderNet/assets/73943064/dbd26314-7a6f-40d4-8a19-57c46b38b1ae)
 
 ## Welcome
 Welcome to SorcererCoderNet, your gateway to an enchanting world of coding possibilities! Whether you're a budding coder or a seasoned developer, SorcererCoderNet offers an immersive experience where you can tackle coding challenges, participate in live lectures, and leverage powerful learning tools. Let the coding adventure begin! 💻🎉
