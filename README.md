@@ -39,7 +39,7 @@ We are proud to use the following technologies for SorcererCoderNet development:
 - **User-Friendly Interface**: Our platform boasts an intuitive interface that makes navigation and participation effortless.
 - **Search Functionality**: Quickly find specific challenges, lectures, and resources with our search feature.
 - **Community Interaction**: Connect with fellow coders, share experiences, and collaborate on projects.
-- **Short-Term and Long-Term Goals**: We have defined goals to enhance the platform's offerings and user experience.
+- **Short-Term and Long-Term Goals**: We have defined goals to enhance the platform's offerings and user experience. 
 
 ## Short-Term Goals
 
