@@ -1,5 +1,5 @@
 # SorcererCoderNet
-
+(This project is on hold for a bit, i will still keep an eye on solved issues / pull requests.)
 Embark on a coding adventure! Explore challenges, attend live lectures, and harness learning tools in the SorcererCoderNet Repository. Unveil the magic of coding mastery. ✨
 
 ![bera-burucu-wizard-idle-animation](https://github.com/DoonOnthon/SorcererCoderNet/assets/73943064/dbd26314-7a6f-40d4-8a19-57c46b38b1ae)
