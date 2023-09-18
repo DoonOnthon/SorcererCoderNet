@@ -81,6 +81,7 @@ For detailed guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 A heartfelt thanks to our contributors who bring SorcererCoderNet to life!
 
 - [DoonOnthon](https://github.com/DoonOnthon)
+- [Abhijeet-Bhushari]([https://github.com/DoonOnthon](https://github.com/Abhijeet-Bhushari))
 
 We appreciate your dedication and enthusiasm in making SorcererCoderNet a reality. If you're interested in joining our contributors' list, please explore [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
