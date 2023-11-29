@@ -1,4 +1,63 @@
 ﻿@{
     ViewData["Title"] = "Courses";
 }
-<h1>Hello from Courses Page</h1>
+
+<section class="courses-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="display-4">Our Courses</h2>
+                <p>Discover a variety of courses designed to enhance your coding skills.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Placeholder for course item 1 -->
+            <div class="col-md-4">
+                <div class="card course-card">
+                    <img src="~/images/course-placeholder.jpg" class="card-img-top" alt="Course Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Course Title 1</h5>
+                        <p class="card-text">Brief description of the course.</p>
+                        <a href="#" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Placeholder for course item 2 -->
+            <div class="col-md-4">
+                <div class="card course-card">
+                    <img src="~/images/course-placeholder.jpg" class="card-img-top" alt="Course Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Course Title 2</h5>
+                        <p class="card-text">Brief description of the course.</p>
+                        <a href="#" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Placeholder for course item 3 -->
+            <div class="col-md-4">
+                <div class="card course-card">
+                    <img src="~/images/course-placeholder.jpg" class="card-img-top" alt="Course Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Course Title 3</h5>
+                        <p class="card-text">Brief description of the course.</p>
+                        <a href="#" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Additional courses can be added here -->
+        </div>
+    </div>
+</section>
+
+<!-- Custom styles for the courses page -->
+@section Styles {
+    <style>
+        .courses-section {
+            padding: 40px 0;
+        }
+        .course-card {
+            margin-bottom: 30px;
+        }
+    </style>
+}
