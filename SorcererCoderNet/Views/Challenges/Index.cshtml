@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Challenge>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Difficulty</th>
+            <th>Topics</th>
+            <th>Companies</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var challenge in Model)
+        {
+            <tr>
+                <td>@challenge.Id</td>
+                <td>@challenge.Title</td>
+                <td>@challenge.Difficulty</td>
+                <td>@string.Join(", ", challenge.TopicTags)</td> <!-- Display TopicTags as a comma-separated list -->
+                <td>@string.Join(", ", challenge.CompanyTags)</td> <!-- Display TopicTags as a comma-separated list -->
+            </tr>
+        }
+    </tbody>
+</table>
